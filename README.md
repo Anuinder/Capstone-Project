@@ -1,7 +1,7 @@
 # Capstone-Project
 Raising Cybersecurity Resilience With CyberSmart Trivia
 
-Capstone Project (2023) on building a gamified Educational Platform for cybersecurity awareness 
+Capstone Project (2023) on building a gamified Educational Platform for generating cybersecurity awareness 
 
 ### Game: 
 CyberSmart Trivia Game

@@ -13,6 +13,14 @@ It takes WCAG 2.0 level AA guidelines as reference for ensuring better accessibi
 
 The file UI_CyberSmart_Trivia.pdf contains various screenshots of the game. 
 
+#### User Interface 
+![image](https://github.com/Anuinder/Capstone-Project/assets/15037299/1ae4166f-2cbf-4f18-bc82-8bf866081759)
+
+![image](https://github.com/Anuinder/Capstone-Project/assets/15037299/0e7857cb-a8cb-4549-a7fa-85b24ef372f0)
+
+
+
+
 #### UVic Web Server
 https://studentweb.uvic.ca/~haitek/index.html
 
